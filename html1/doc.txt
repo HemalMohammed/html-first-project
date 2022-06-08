@@ -1,0 +1,45 @@
+html::content
+     title
+     h1
+     h2
+     h3
+     h4
+     h5
+     h6
+
+   text
+       p
+   image:
+   		internal= file download use
+   		extarnal= server file link--(this mean cdn=content delevery network)
+   link:
+        internal-
+        external-
+
+
+element=(strating+content+ending)
+tag = (tag er sodo strating thake)
+attribute = additional data (name="value") pair akare thake.
+
+Speed optimization reason:
+				content
+					text-fast
+					image
+					audio
+					video
+					map
+-----------------------
+CSS:
+    css meaningh= (cascading style sheets)
+
+    3 taype of css: 
+                    inline
+                    intanal
+                    extarnal
+
+    css syntex
+              {
+              property:values;
+              }
+
+    css code comment: /*  */
